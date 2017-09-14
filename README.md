@@ -20,6 +20,6 @@ Airplane Crashes and Fatalities Since 1908
 | Summary      | Nominal    |
 
 The dataset can be found on Kaggle on the following URL:
-[https://www.kaggle.com/saurograndi/airplane-crashes-since-1908](https://www.kaggle.com/saurograndi/airplane-crashes-since-1908 "Kaggle's Homepage") \n
+[https://www.kaggle.com/saurograndi/airplane-crashes-since-1908](https://www.kaggle.com/saurograndi/airplane-crashes-since-1908 "Kaggle's Homepage") <br />
 Owner of the dataset:
 [https://opendata.socrata.com/Government/Airplane-Crashes-and-Fatalities-Since-1908/q2te-8cvq](https://opendata.socrata.com/Government/Airplane-Crashes-and-Fatalities-Since-1908/q2te-8cvq "Socrata's Homepage") 
