@@ -1,4 +1,4 @@
-# ADS-DV-Flight-Crashes
+# ADS-DV-Airplane-Crashes
 Airplane Crashes and Fatalities Since 1908
 
 ### Datatypes of the attributes
